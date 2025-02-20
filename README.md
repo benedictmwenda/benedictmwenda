@@ -46,9 +46,10 @@ I'm a passionate full-stack developer and graphics designer with experience in b
 ## 🤝 Let's Collaborate!
 I'm always open to working on exciting projects, collaborating with like-minded developers, and exploring new technologies. Feel free to reach out!  
 
-📩 **Email:** benedictmwenda6@gmail.com  
-🌐 **Portfolio:** benedictmwenda.netlify.app  
+📩 **Email:** mwendabenedict6@gmail.com  
+🌐 **Portfolio:** https://benedictmwenda.netlify.app  
 🔗 **LinkedIn:** [My LinkedIn Profile]  
+🔗 **WhatsUp:** https://wa.me/message/AEDRFOEVA3WMN1
 🐙 **GitHub:** https://github.com/benedictmwenda  
 
 Let's build something amazing together! 🚀
