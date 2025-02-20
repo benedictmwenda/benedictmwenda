@@ -49,8 +49,7 @@ I'm always open to working on exciting projects, collaborating with like-minded 
 📩 **Email:** mwendabenedict6@gmail.com  
 🌐 **Portfolio:** https://benedictmwenda.netlify.app  
 🔗 **LinkedIn:** [My LinkedIn Profile]  
-🔗 **WhatsUp:** https://wa.me/message/AEDRFOEVA3WMN1
+🔗 **WhatsApp:** https://wa.me/message/AEDRFOEVA3WMN1  
 🐙 **GitHub:** https://github.com/benedictmwenda  
 
 Let's build something amazing together! 🚀
-
